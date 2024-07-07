@@ -1,0 +1,6 @@
+@PaypalDemo_HostAddress = http://localhost:5069
+
+GET {{PaypalDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
